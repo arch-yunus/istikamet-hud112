@@ -1,111 +1,95 @@
-﻿# 🧭 İstikamet: Emrolunduğun Gibi Dosdoğru Ol
+# 🧭 İstikamet: Emrolunduğun Gibi Dosdoğru Ol
 
-> *"Seninle beraber tövbe edenlerle birlikte, emrolunduğun gibi dosdoğru ol."* — Hud, 112
-> 
-> *"Hud suresi ve kardeşleri beni yaşlandırdı."* — Hz. Muhammed s.a.v
+> *"Seninle beraber tövbe edenlerle birlikte, emrolunduğun gibi dosdoğru ol."*  
+> — **Hûd Suresi, 112**
 
-Bu depo, sadece bir doküman koleksiyonu değildir. **Her satırı, her karar anını ve her eylemi bir disiplin sahası olarak görenler için hazırlanmış bir yönelim rehberidir.**
+> *"Hûd suresi ve kardeşleri beni yaşlandırdı."*  
+> — **Hz. Muhammed (s.a.v.)** *(Tirmizî, Tefsîr, 57)*
+
+> *"Ya göründüğün gibi ol, ya olduğun gibi görün."*  
+> — **Mevlânâ Celâleddîn-i Rûmî**
+
+---
+
+Bu depo, sıradan bir dokümantasyon veya bilgi koleksiyonu değildir. **Her satırı, her karar anını, her kelimeyi ve her eylemi bir disiplin sahası olarak görenler için hazırlanmış bir yönelim ve tefekkür rehberidir.**
+
+İstikamet; hedefe bir kez ulaşıp orada durmak değil, değişen hayat şartları altında her an rotayı yeniden dosdoğru kılma kararlılığıdır.
+
+---
 
 ## 🎯 Projenin Amacı
 
-Bu projenin amacı, **"dosdoğru" olma idealini** günlük yaşama, işe ve iletişime taşıyabilecek bir anlayış zemini oluşturmaktır. Hud suresinin talep ettiği "uygulamalı istikamet", burada hem ruhsal hem de pratik bir çerçeveyle ele alınır.
+Bu projenin amacı, **"dosdoğru olma" idealini** soyut bir kavram olmaktan çıkarıp günlük yaşama, iş üretim süreçlerine, tasarıma ve insan ilişkilerine taşıyabilecek somut bir zemin oluşturmaktır. Hûd suresinin talep ettiği "uygulamalı istikamet", burada hem felsefi/ontolojik hem de pratik/disipliner bir çerçeveyle ele alınır.
 
-*Bu repo,*
-- bireysel davranışları inceleyen,
-- üretim süreçlerine değer katan,
-- iletişimde denge ve netlik arayan,
-- hata yapmayı değil, hatadan dönme disiplinini esas alan
-bir çalışma alanıdır.
+*Bu rehber,*
+-   Bireysel davranışlarını bilinç süzgecinden geçirmek isteyen,
+-   Üretim süreçlerinde (kod yazımında, tasarımda, zanaatte) kaliteyi "yeterli" olmanın ötesine taşıyıp **ihsan** düzeyine ulaştırmayı hedefleyen,
+-   İletişimde dürüstlük ile şefkat dengesini kurmak isteyen,
+-   Hata yapmamayı değil, hatayı dürüstçe kabul edip düzeltme disiplinini esas alan
+herkes için bir başucu kaynağıdır.
 
-## 📌 Neden Bu Rehber?
+---
 
-Hud suresi ve ağırlık hissi, iki açıdan değerlendirilir:
+## 📁 Deponun Yapısı ve İçerik Haritası
 
-1. **Bilişsel yük olarak:** Doğruyu seçmek, günün her anında karar verilebilir bir hale dönüşür.
-2. **İsabetli sorumluluk olarak:** İnsanın kendine, çevresine ve Allah'a karşı taşıdığı sorumluluk derinleşir.
+Rehber, kavramsal derinlik sağlayan **Düşünce (Docs)** yazıları ile günlük hayatta uygulanabilecek **Pratikler** olmak üzere iki ana gövdeden oluşur:
 
-Bu proje, bu ağırlaşmayı bir yük olarak değil, **gelişim ve netlik kapısı** olarak okumayı teklif eder.
+### 🧠 1. Düşünce ve Tefekkür (`docs/`)
+Derinlemesine okumalar, ontolojik analizler ve felsefi arka plan:
 
-## 👤 Kimler İçin?
+*   **[`agirlik-ve-yas.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/docs/agirlik-ve-yas.md)**  
+    *Hûd suresinin neden "yaşlandırdığı" üzerine ontolojik bir analiz. Sürekli uyanıklığın, sorumluluk bilincinin ve hesap verebilirliğin getirdiği zihinsel/bilişsel yükün ruhsal olgunlaşmadaki rolü.*
+*   **[`ihsan-kavrami.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/docs/ihsan-kavrami.md)**  
+    *İhsan nedir? Mükemmeliyetçilik ile ihsan arasındaki kritik sınır. O anki şartlar altındaki maksimum potansiyelimizi işimize, hayatımıza nasıl aktarabiliriz?*
+*   **[`mikro-kararlar.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/docs/mikro-kararlar.md)**  
+    *Büyük hayat yönelimlerinin arkasında yatan günlük küçük seçimlerin gücü. Kod yazarken, konuşurken veya stres anında verilen mikro-kararların ahlaki birikim etkisi.*
+*   **[`estetik-ve-dogruluk.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/docs/estetik-ve-dogruluk.md)** `[YENİ]`  
+    *Tasarımda, mimaride ve yazılımda süsleme ile hakikat arasındaki gerilim. "Cilalı yalanlar" üretmek yerine, sadeliğin ve dürüstlüğün estetiğini inşa etme prensipleri.*
 
-- Kendi eylemlerini daha bilinçli kılmak isteyenler
-- Üretimde kaliteyi "yeterli" olmanın ötesine taşımak isteyenler
-- İletişim kurarken adil ve sorumlu bir dil arayanlar
-- Kişisel disiplinini sistematik hâle getirmek isteyenler
+### 🛠️ 2. Gündelik Uygulamalar (`pratikler/`)
+İstikamet disiplinini hayata geçirecek somut kurallar ve matrisler:
 
-## 📁 Bu Reponun Yapısı
+*   **[`is-ahlaki.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/pratikler/is-ahlaki.md)**  
+    *İş hayatında ahlakın sadece "yanlış yapmamak" (negatif ahlak) olmadığını, aktif olarak kalite üretmek (pozitif ahlak) olduğunu anlatan; kodlama ve üretim süreçleri için pratik karar matrisi.*
+*   **[`iletisim.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/pratikler/iletisim.md)**  
+    *İletişimde dürüstlüğün netliği ile üslubun yumuşaklığı arasındaki hassas denge. Dinleme, niyet sorgulama ve durumlar karşısında istikametli diyalog şablonları.*
+*   **[`ekip-kulturu.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/pratikler/ekip-kulturu.md)** `[YENİ]`  
+    *Birlikte üretirken radikal şeffaflık ile psikolojik güvenliği buluşturma. Suçlamayan ama gevşekliğe de geçit vermeyen bir ortak disiplin alanı kurma.*
+*   **[`haftalik-refleksiyon.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/pratikler/haftalik-refleksiyon.md)** `[YENİ]`  
+    *Klasik ahlaktaki muhasebe, murakabe ve muâhede kavramlarının modern hayata uygulanışı. Haftalık değerlendirme soruları ve istikamet kontrol listesi.*
 
-* **`README.md`** — Projenin vizyonu, kullanım rehberi ve temel çerçevesi.
-* **`docs/`** — Kavramsal düşünceyi açan, derinlemesine okumalar.
-  * `docs/ihsan-kavrami.md`
-  * `docs/agirlik-ve-yas.md`
-  * `docs/mikro-kararlar.md`
-* **`pratikler/`** — Günlük hayatta uygulanabilecek somut disiplinler.
-  * `pratikler/is-ahlaki.md`
-  * `pratikler/iletisim.md`
-* **`KATKIDA_BULUN.md`** — Projeye nasıl katkı verileceğini anlatan rehber.
-
-## 🔍 Öne Çıkan İçerikler
-
-### `docs/ihsan-kavrami.md`
-- İhsan nedir?
-- İhsanı iş hayatına, kişisel gelişime ve üretime nasıl taşıyabiliriz?
-- Mükemmeliyetçilik ile İhsan arasındaki fark.
-
-### `docs/agirlik-ve-yas.md`
-- Hud suresinin neden "yaşlandırdığı" üzerine ontolojik analiz.
-- Sürekli uyanıklığın, sorumluluğun ve hesap verebilirliğin taşıdığı ağır yük.
-- Bu ağırlığın neden olgunlaştırdığı ve nerede sınır tanıdığı.
-
-### `docs/mikro-kararlar.md`
-- Günlük küçük seçimlerin toplam etkisi.
-- Her anın bir mikro disiplin alanı olduğuna dair görüşler.
-- Pratik örnekler: kod, iletişim ve kişisel davranış.
-
-### `pratikler/is-ahlaki.md`
-- İş ahlakının sadece yanlış yapmamak olmadığını anlatır.
-- Hızın, kaliteyi ve uzun vadeli sonucu nasıl etkilediğini gösterir.
-- Şeffaflık, sorumluluk ve işi teslim ederken taşıması gereken ağırlık üzerine somut öneriler.
-
-### `pratikler/iletisim.md`
-- İletişimde doğruluk ve merhametin buluşması.
-- Gerçeği söylemekle ilişkinin yıpranması arasındaki hassas denge.
-- Dinleme, niyet ve karşı tarafın değerine saygı esaslı bir iletişim dili.
+---
 
 ## 🛠️ Nasıl Kullanılır?
 
-1. Önce `README.md` ve `docs/` altındaki içerikleri okuyun.
-2. Ardından `pratikler/` klasöründeki günlük uygulamaları kendinize uyarlayın.
-3. Her hafta en az bir mikro-kararınızı değerlendirin.
-4. Hata yaptığınızda, **duruşunuzu tekrar gözden geçirin** ve yeni bir düzeltme eylemi planlayın.
+1.  Öncelikle vizyonu anlamak için `README.md` ve `docs/` altındaki kavramsal yazıları okuyun.
+2.  Ardından `pratikler/` altındaki rehberleri günlük iş ve iletişim süreçlerinize entegre edin.
+3.  Her haftanın sonunda [`haftalik-refleksiyon.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/pratikler/haftalik-refleksiyon.md) şablonunu kullanarak kendinizi dürüst bir değerlendirmeye tabi tutun.
+4.  Sapmalar fark ettiğinizde kendinizi suçlamak yerine, **doğrulma iradesi** göstererek adımlarınızı kalibre edin.
 
-## ✅ Pratik Tavsiyeler
+---
 
-- **Kısa değil, doğru yap.** Hızla üretmek gerekse dahi, kusursuz olmasa bile sorumluluğunu taşıyacak şekilde yap.
-- **Düşünmeden davranmak, kayıptır.** Her eylemi küçük bir sınav olarak görün.
-- **Dolaylı değil, doğrudan olun.** Hem kendinize hem de çevrenize karşı dürüstlüğe öncelik verin.
-- **Dengeyi bozmayın.** Doğru olmakla kırıcı olmak arasındaki sınırı sürekli izleyin.
+## ✅ Temel İstikamet Düsturları
 
-## 🌱 Katkı ve Gelişim
+*   **Hızlı Değil, Temiz ve Doğru Yap:** Zaman baskısı olsa bile, altına imzanızı atamayacağınız kirli kestirmelere sapmayın.
+*   **Görünmeyen Kısımlara Özen Göster:** Bir kodun arka plan mimarisi veya bir ürünün iç mekanizması, sadece siz bilseniz dahi en yüksek kalitede olmalıdır.
+*   **Radikal Şeffaflığı Seç:** Hataları ve gecikmeleri gizlemek ahlaki yükü ağırlaştırır. Sorunları erkenden ve dürüstçe bildirmek güveni inşa eder.
+*   **Dürüstlüğü Şefkatle Yoğur:** Gerçeği söylerken karşınızdakini ezmeye veya egonuzu tatmin etmeye çalışmayın. Doğruluk, merhametle birleştiğinde istikameti bulur.
 
-Bu repo, tek bir kişinin metni değil; **düşünce ortamı** olarak tasarlandı. Aşağıdaki yollarla katkı verebilirsin:
+---
 
-- `KATKIDA_BULUN.md` dosyasını okuyun.
-- Yeni kavram yazıları ekleyin.
-- Uygulama odaklı pratikler önerin.
-- Mevcut metinlerin dilini, netliğini ve anlaşılabilirliğini geliştirin.
+## 🌱 Katkıda Bulunma
 
-## 🧭 Gelecek Yol Haritası
+Bu repo, tek bir yazarın metinleri değil; birlikte düşünen, hata yapan ama doğrulmakta direnen insanların ortak tefekkür alanıdır. Katkılarınızı bekliyoruz:
 
-Bu projede eklenebilecek başlıklar:
+-   Katkı kuralları için [`KATKIDA_BULUN.md`](file:///g:/Diğer bilgisayarlar/Dizüstü Bilgisayarım/github repolarım/istikamet-hud112/KATKIDA_BULUN.md) dosyasını inceleyin.
+-   Kendi yaşamınızdan/projelerinizden öğrenilmiş pratik örnekler ve tecrübeler ekleyin.
+-   Mevcut dosyaların felsefi derinliğini artıracak alıntılar veya analizler önerin.
 
-- Ekip içinde istikamet kültürü
-- Duygusal zekâ ve istikamet
-- Tasarım, yazılım ve üretimde estetik-doğruluk dengesi
-- Haftalık refleksiyon soruları
+---
 
-## 📌 Not
+## 📌 Hatırlatma
 
-Bu proje, kişisel ve zihinsel disiplin arayışı üzerine kuruludur. **Dini metinlerin yorumu kişisel görüştür**, bu nedenle burada yer alan fikirler kişisel bakış açısına dayanır.
+Bu depoda yer alan düşünceler, kişisel ve zihinsel disiplin arayışlarına dayalı çıkarımlardır. Dini, ahlaki ve felsefi metinlerin yorumlanışı kişisel bakış açılarını yansıtır.
 
-> "İstikameti muhafaza etmek, sabit bir varış noktası değil; sürekli tekrar seçmektir."
+> *"İstikamet sabit bir varış çizgisi değil; her an sapmaya hazır olan adımlarımızı dosdoğru kılmak için gösterdiğimiz kesintisiz, dinamik bir gayrettir."*
